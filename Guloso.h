@@ -23,7 +23,7 @@ class Guloso{
         Guloso(int* estad, int tam);
 };
 #endif // GULOSO_H_INCLUDED
-//--------------------------------------------------Guloso.cpp
+//--------------------------------------------------Guloso.cpp 
 #include "Guloso.h"
 
 Guloso::Guloso(int* estad, int tam){
